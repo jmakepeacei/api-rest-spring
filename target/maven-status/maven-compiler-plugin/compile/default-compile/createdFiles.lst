@@ -1,0 +1,6 @@
+com\example\spring_mvc_demo\model\Producto.class
+com\example\spring_mvc_demo\exception\ResourceNotFoundException.class
+com\example\spring_mvc_demo\controller\CustomErrorController.class
+com\example\spring_mvc_demo\exception\GlobalExceptionHandler.class
+com\example\spring_mvc_demo\controller\ProductoController.class
+com\example\spring_mvc_demo\SpringMvcDemoApplication.class
